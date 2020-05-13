@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 python3 model.py
 ```
 
-## output
+## expected output
 
 ```
 jimschwoebel@Jims-MBP voice_modeling_starter % python3 model.py
