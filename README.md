@@ -4,8 +4,8 @@ Starter repository for learning how to make machine learning models with voice d
 ## get started
 
 ```
-git clone ___
-cd ___
+git clone git@github.com:NeuroLexDiagnostics/voice_modeling_starter.git
+cd voice_modeling_starter
 pip3 install -r requirements.txt
 python3 model.py
 ```
