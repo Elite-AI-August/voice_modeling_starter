@@ -133,6 +133,6 @@ loaded model accuracy-->
 
 ## Learn more
 Any feedback on this repository is greatly appreciated. 
-* Learn more about voice computing with the textbook I wrote [Introduction to Voice Computing in Python](https://github.com/jim-schwoebel/voicebook).
+* Learn more about voice computing with the textbook we wrote [Introduction to Voice Computing in Python](https://github.com/jim-schwoebel/voicebook).
 * If you'd like to be mentored by someone on our team, check out the [Innovation Fellows Program](http://neurolex.ai/research).
 * If you want to talk to me directly, please send me an email @ js@neurolex.co. 
