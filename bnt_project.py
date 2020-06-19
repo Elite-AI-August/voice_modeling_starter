@@ -107,5 +107,5 @@ labels = labels_males + labels_females
 
 X_train, X_test, y_train, y_test = train_test_split(features, labels, test_size=0.25, random_state=25)
 clf = LogisticRegression(random_state=0).fit(X_train, y_train)
-accuracy_mfcc=clf.score(X_test, y_test)
+accuracy=clf.score(X_test, y_test)
 print(accuracy)
